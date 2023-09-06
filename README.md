@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there 👋, I'm NMI
 
-<!--
-**nmime/nmime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me 🤓
+👨‍💻 I'm a software engineer specializing in Node.js and TypeScript.  
+🤖 I design innovative Telegram bots.  
+🌐 Love architecting websites.  
+🛠️ Also skilled in REST API & WebSockets development.  
+🌟 Passionate about game mechanics and enhancing user engagement.  
+💰 Deep interest in cryptocurrencies, especially TON.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+🟢 Node.js   🟦 TypeScript  
+🔵 React.js  🟨 Solid.js  
+🟣 MongoDB   🔵 PostgreSQL
+```
