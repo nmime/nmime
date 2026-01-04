@@ -31,4 +31,4 @@ Cryptocurrency Trading Systems • P2P Marketplaces • Payment Processing • R
 
 ## Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-@nmi__exe-2CA5E0?style=flat&logo=telegram)](https://t.me/nmime)
+[![Telegram](https://img.shields.io/badge/Telegram-@nmime-2CA5E0?style=flat&logo=telegram)](https://t.me/nmime)
