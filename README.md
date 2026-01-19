@@ -95,7 +95,7 @@ AI is deeply integrated into my workflow — from architecture design and code g
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=nmime&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=7aa2f7&icon_color=7aa2f7&text_color=a9b1d6&hide_title=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com?user=nmime&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7)
+![Streak](https://streak-stats.demolab.com?user=nmime&theme=tokyonight&hide_border=true&background=1a1b27&stroke=7aa2f7&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7)
 
 </div>
 </details>
