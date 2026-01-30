@@ -8,6 +8,12 @@
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-nmime-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nmime)
 
+<br/><br/>
+
+[![🌐 English](https://img.shields.io/badge/🌐_English-available-2ea44f?style=flat-square)](README.md)
+&nbsp;
+[![🌐 Русский](https://img.shields.io/badge/🌐_Русский-currently-565656?style=flat-square)](README_RU.md)
+
 </div>
 
 <br/>
@@ -39,6 +45,7 @@ Senior Software Engineer с 4+ годами опыта в продакшн-си�
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
@@ -50,6 +57,26 @@ Senior Software Engineer с 4+ годами опыта в продакшн-си�
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Блокчейн</b></td>
+<td>
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098EA?style=flat-square&logo=ton&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Облако</b></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 
 </td>
 </tr>
@@ -79,6 +106,27 @@ Senior Software Engineer с 4+ годами опыта в продакшн-си�
 **High-Load Backend** — Системы, спроектированные с учётом отказов: circuit breakers, graceful degradation, распределённые транзакции, шардирование БД, оптимизация запросов с ускорением на порядки.
 
 **Архитектура** — DDD, clean architecture и паттерны проектирования в реальных системах. Границы сервисов, bounded contexts, потоки данных и стратегии масштабирования, на которых команды строят годами.
+
+<br/>
+
+## Проекты
+
+> Пет-проекты, доведённые до продакшн-уровня
+
+### [Fracti](https://github.com/nmime/fracti)
+AI-powered Telegram Mini App для разделения расходов. Просто напишите боту в чат — он распарсит траты, оптимизирует долги и проведёт мгновенные расчёты через TON блокчейн в один тап.
+
+`TypeScript` `React` `AWS` `TON Blockchain` `Telegram Mini App` `AI`
+
+### [Telegram Gift Auction](https://github.com/nmime/telegram-gift-auction)
+Бэкенд многораундовых аукционов для Telegram Gift. Полноценная платформа с real-time ставками, управлением жизненным циклом аукционов и бесшовной интеграцией с Telegram.
+
+`TypeScript` `NestJS` `React` `MongoDB` `Redis` `Docker`
+
+### [Motiv Buy](https://github.com/nmime/motiv-buy)
+Цифровой маркетплейс мотивированного трафика в Telegram. Масштабируемая микросервисная архитектура с мульти-провайдерными платёжными интеграциями и курсами в реальном времени.
+
+`TypeScript` `NestJS` `PostgreSQL` `Redis` `NATS` `Microservices`
 
 <br/>
 

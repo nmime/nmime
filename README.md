@@ -8,6 +8,12 @@
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-nmime-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/nmime)
 
+<br/><br/>
+
+[![🌐 English](https://img.shields.io/badge/🌐_English-currently-565656?style=flat-square)](README.md)
+&nbsp;
+[![🌐 Русский](https://img.shields.io/badge/🌐_Русский-available-2ea44f?style=flat-square)](README_RU.md)
+
 </div>
 
 <br/>
@@ -39,6 +45,7 @@ Senior Software Engineer with 4+ years shipping production systems in crypto fin
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
 </td>
@@ -50,6 +57,26 @@ Senior Software Engineer with 4+ years shipping production systems in crypto fin
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=flat-square&logo=natsdotio&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Blockchain</b></td>
+<td>
+
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
+![TON](https://img.shields.io/badge/TON-0098EA?style=flat-square&logo=ton&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td><b>Cloud</b></td>
+<td>
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 
 </td>
 </tr>
@@ -79,6 +106,27 @@ Senior Software Engineer with 4+ years shipping production systems in crypto fin
 **High-Load Backend** — Systems designed for failure: circuit breakers, graceful degradation, distributed transactions, database sharding, and query optimization that cut response times by orders of magnitude.
 
 **Architecture** — DDD, clean architecture, and design patterns applied to real systems. Service boundaries, bounded contexts, data flow, and scaling strategies that teams build on for years.
+
+<br/>
+
+## Projects
+
+> Personal projects built to production-grade standards
+
+### [Fracti](https://github.com/nmime/fracti)
+AI-powered Telegram Mini App for expense splitting. Chat naturally with the bot to split bills — it handles parsing, debt optimization, and instant TON blockchain settlements with one-tap wallet payments.
+
+`TypeScript` `React` `AWS` `TON Blockchain` `Telegram Mini App` `AI`
+
+### [Telegram Gift Auction](https://github.com/nmime/telegram-gift-auction)
+Multi-round auction backend for Telegram Gift Auctions. Full-stack platform with real-time bidding, auction lifecycle management, and seamless Telegram integration.
+
+`TypeScript` `NestJS` `React` `MongoDB` `Redis` `Docker`
+
+### [Motiv Buy](https://github.com/nmime/motiv-buy)
+Digital marketplace for motivated traffic across Telegram. Scalable microservices architecture with multi-provider payment integrations and real-time exchange rates.
+
+`TypeScript` `NestJS` `PostgreSQL` `Redis` `NATS` `Microservices`
 
 <br/>
 
